@@ -1,0 +1,9 @@
+Shweta,shwets@gmail.com,9473569401,1004,Chocolate Cake,550,1,18,649.0,Sun May  5 19:04:57 2024
+Shweta,shwets@gmail.com,9473569401,1009,Maggie-14Rs,14,6,12,94.08,Sun May  5 19:05:05 2024
+Shweta,shwets@gmail.com,9473569401,1010,Lays-Sour Cream And Onion-20Rs,20,2,12,44.8,Sun May  5 19:05:15 2024
+
+Shivangi,shivangi@gmail.com,5622309876,1004,Chocolate Cake,550,7,18,4543.0,Sun May  5 19:08:08 2024
+
+Rohan,rohan@gmail.com,5693217803,1008,Aashirvaad Aata 1 kg,70,6,5,441.0,Sun May  5 19:10:12 2024
+Rohan,rohan@gmail.com,5693217803,1009,Maggie-14Rs,14,6,12,94.08,Sun May  5 19:10:30 2024
+
